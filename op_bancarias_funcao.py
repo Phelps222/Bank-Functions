@@ -11,6 +11,9 @@ nenhuma operação: exibir mensagem 'Não foram realizadas movimentações.
 
 -> Deve ser exibidor o valor com duas casas decimais
 
+-> Seguindo as devidas instruções do curso dev DIO, foram implementadas funções para as operações de saque, depósito e extrato. Adicionadas mais três novas 
+de criação de usuário, Listagem de contas e criação de nova conta vinculada ao CPF do usuário
+
 """
 
 import textwrap
